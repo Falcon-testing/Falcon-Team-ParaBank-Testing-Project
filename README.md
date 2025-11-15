@@ -3,7 +3,7 @@ Comprehensive Functional, Validation, and System Testing
 
 ---
 
-## 👥 **Team Members**
+##  **Team Members**
 - **Team Leader:** Eng. Abdelrahman Ramadan  
 - **Members:**  
   - Kerolos George  
@@ -14,13 +14,13 @@ Comprehensive Functional, Validation, and System Testing
 
 ---
 
-# 📌 **1. Requirements Overview**
+#  **1. Requirements Overview**
 
 Below is the full list of requirements grouped by module.
 
 ---
 
-## 🔐 **1. Registration Module (REG)**  
+##  **1. Registration Module (REG)**  
 **REG-001 → REG-040**  
 Includes:  
 - Access to registration page  
@@ -32,7 +32,7 @@ Includes:
 
 ---
 
-## 🔑 **2. Authentication Module (AUTH)**  
+##  **2. Authentication Module (AUTH)**  
 **AUTH-001 → AUTH-011**  
 Includes:  
 - Login validations  
@@ -43,7 +43,7 @@ Includes:
 
 ---
 
-## 🧾 **3. Account Management Module (ACC)**  
+##  **3. Account Management Module (ACC)**  
 **ACC-001 → ACC-018**  
 Includes:  
 - Account overview  
@@ -55,7 +55,7 @@ Includes:
 
 ---
 
-## 💸 **4. Transaction History & Transfer Module (TRX)**  
+##  **4. Transaction History & Transfer Module (TRX)**  
 **TRX-001 → TRX-011**  
 Includes:  
 - Filtering by date, amount, ID  
@@ -66,7 +66,7 @@ Includes:
 
 ---
 
-## 👤 **5. Profile Management Module (PROF)**  
+##  **5. Profile Management Module (PROF)**  
 **PROF-001 → PROF-004**  
 Includes:  
 - Updating personal data  
@@ -75,7 +75,7 @@ Includes:
 
 ---
 
-## 🏦 **6. Loan Management Module (LN)**  
+##  **6. Loan Management Module (LN)**  
 **LN-001 → LN-003**  
 Includes:  
 - Loan amount & down payment validations  
@@ -83,7 +83,7 @@ Includes:
 
 ---
 
-## ⚙️ **7. System Module (SYS)**  
+##  **7. System Module (SYS)**  
 **SYS-001 → SYS-005**  
 Includes:  
 - Logout  
@@ -94,7 +94,7 @@ Includes:
 
 ---
 
-# 🎯 **2. Test Objective (Test Closure Phase)**
+#  **2. Test Objective (Test Closure Phase)**
 
 The objective of the Test Closure phase is to officially complete all testing activities and ensure full validation of all requirements across modules (REG, AUTH, ACC, TRX, PROF, LN, SYS).  
 The closure phase ensures all test deliverables are completed, defects resolved, and the ParaBank system is ready for release.
@@ -108,7 +108,7 @@ The closure phase ensures all test deliverables are completed, defects resolved,
 
 ---
 
-# 📍 **3. Test Scope**
+#  **3. Test Scope**
 
 The scope includes complete validation of **all functional, validation, usability, and security behaviors** across:
 
@@ -134,7 +134,7 @@ The scope includes complete validation of **all functional, validation, usabilit
 
 ---
 
-# 🧪 **4. Test Approach**
+#  **4. Test Approach**
 
 The ParaBank testing uses a **requirements-driven and risk-based** strategy to ensure full coverage and reliability.
 
@@ -244,7 +244,7 @@ Testing is complete when:
 
 ---
 
-# 🔍 **5. Test Techniques Used**
+#  **5. Test Techniques Used**
 
 ParaBank testing applied four major techniques:
 
@@ -292,7 +292,7 @@ Applied for:
 
 ---
 
-# ✅ **6. Summary**
+#  **6. Summary**
 
 The combination of:  
 - **BVA**  
