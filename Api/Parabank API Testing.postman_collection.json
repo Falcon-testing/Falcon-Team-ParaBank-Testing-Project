@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "85436ebb-a204-403c-9de9-56c054cccb77",
+		"name": "Parabank API Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49176040",
+		"_collection_link": "https://mahmodesameeh11-5675339.postman.co/workspace/Falcons-Team's-Workspace~7e76b853-832f-4c9d-8e84-9458ae791d76/collection/49176040-85436ebb-a204-403c-9de9-56c054cccb77?action=share&source=collection_link&creator=49176040"
+	},
+	"item": [
+		{
+			"name": "Login - Valid",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": [
+				{
+					"name": "Valid Login Response",
+					"originalRequest": {
+						"method": "GET",
+						"header": []
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "{\r\n  \"status\": \"success\",\r\n  \"user\": {\r\n    \"username\": \"john\",\r\n    \"firstName\": \"John\",\r\n    \"lastName\": \"Doe\"\r\n  }\r\n}\r\n"
+				}
+			]
+		}
+	]
+}
